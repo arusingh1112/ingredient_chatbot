@@ -1,0 +1,12 @@
+[
+    {
+      "id": "1",
+      "snack_name": "Chips and Salsa",
+      "snack_ingredients": "tortilla chips and salsa"
+    },
+    {
+      "id": "2",
+      "snack_name": "Pita Bread and Hummus",
+      "snack_ingredients": "pita bread and hummus "
+    }
+]

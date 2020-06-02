@@ -1,0 +1,30 @@
+{
+  "entities": [
+    {
+      "id": "1",
+      "cname": "Salsa and Chips",
+      "whitelist": [
+        "chips and salsa",
+        "chips and dip",
+        "tortilla chips with salsa",
+        "chips with salsa",
+        "salsa with chips",
+        "nachos"
+      ]
+    },
+    {
+      "id": "2",
+      "cname": "Pita Bread and Hummus",
+      "whitelist": [
+        "pita and hummus",
+        "hummus and pita",
+        "hummus and pita bread"
+      ]
+    }
+  ]
+}
+
+
+
+
+

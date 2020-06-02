@@ -1,0 +1,10 @@
+I want to make {nachos|snack_name}.
+Can you give me the ingredients for {pita and hummus|snack_name}?
+What do I need to make {salsa and chips|snack_name}?
+Can you tell me what I need in order to make {pizza|snack_name}?
+I am looking to cook {peanut butter toast|snack_name}.
+Ok, can you tell me the ingredients for {salsa and chips|snack_name} please?
+Could you give me the ingredients for {pita and hummus|snack_name} please?
+{chips and dip|snack_name}
+{nachos|snack_name}
+{nachos|snack_name} please
